@@ -30,4 +30,4 @@
 **PID 제어를 통한 드론 호버링 구현** (캡스톤디자인 경진대회)
 
 ### 🌱 Let's Connect!
-![전예서's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vue)
+![전예서's GitHub stats](https://github-readme-stats.vercel.app/api?username=roseraph502on&show_icons=true&theme=vue)
