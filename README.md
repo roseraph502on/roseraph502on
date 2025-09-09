@@ -27,4 +27,4 @@
 | **Tools & Etc** | `Figma` `Ajax` `RestAPI` `UI/UX Design` `Vite` `Jira` `Git` `Tailwind CSS` |
 
 ### 🌱 Let's Connect!
-![전예서's GitHub stats](https://github-readme-stats.vercel.app/api?username=roseraph502on&show_icons=true&theme=vue)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseraph502on&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
