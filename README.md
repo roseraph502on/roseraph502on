@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://github.com/roseraph502on/roseraph502on/assets/136009893/781b0a70-87a2-4a00-afcf-f5c24b6170d4" width="100px" alt="Profile Icon">
-  <h1>안녕하세요! 끊임없이 배우고 창조하며 성장하는 프론트엔드 개발자 [전예서]입니다. 🚀</h1>
-  <p>💡 개발은 저에게 지속 가능한 열정이자, 아이디어를 현실로 만드는 즐거운 도전입니다.</p>
-</div>
-
----
-
 ### 🙋‍♀️ About Me
 
 어린 시절 컴퓨터를 처음 접한 순간부터 그 매력에 깊이 빠져들었습니다. 💻
